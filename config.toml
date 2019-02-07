@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://oeuanalitico.netlify.com/"
 languageCode = "en-us"
 title = "o eu analítico"
 theme = "hyde-hyde"
-disqusShortname = "joseferrazneto"
+disqusShortname = "oeuanalitico"
 [params]
     author = "José Ferraz Neto"
     title = "o eu analítico"

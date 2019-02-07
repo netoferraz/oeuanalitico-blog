@@ -1,7 +1,7 @@
 ---
 title: "lifelogging, um estilo de vida."
 date: 2019-02-07T12:40:56-02:00
-draft: true
+draft: false
 ---
 
 Você conhece o termo `lifelogging`? Também conhecido por [Quantified self](https://en.wikipedia.org/wiki/Quantified_self),  esse consiste em um movimento criado no início de 2007 por Gary Wolf e Kevin Kelly, editores da revista [Wired](https://www.wired.com/magazine/), o qual promove a incorporação de tecnologia para aquisição de dados no cotidiano das pessoas.

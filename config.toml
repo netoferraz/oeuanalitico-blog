@@ -1,0 +1,24 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "o eu analítico"
+theme = "hyde-hyde"
+disqusShortname = "joseferrazneto"
+[params]
+    author = "José Ferraz Neto"
+    title = "o eu analítico"
+	dateformat = "Jan 2, 2006"
+	themeColor = "theme-base-08"
+    highlightjs = true
+    highlightjsstyle = "github"  
+[params.social]
+    github = "netoferraz"
+    linkedin = "joseferrazneto"
+    twitter = "zeneto"
+    telegram = "nferraz"
+	email = "netoferraz@gmail.com"
+
+[[menu.main]]
+    name = "POSTS "
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"

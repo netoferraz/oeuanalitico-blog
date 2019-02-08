@@ -6,21 +6,21 @@ draft: false
 
 Você conhece o termo `lifelogging`? Também conhecido por [Quantified self](https://en.wikipedia.org/wiki/Quantified_self), foi um movimento criado no início de 2007 por Gary Wolf e Kevin Kelly, editores da revista [Wired](https://www.wired.com/magazine/), o qual promove a incorporação de tecnologia para aquisição de dados no cotidiano das pessoas.
 
-Em tempos onde há uma explosão de *gadgets*<sup>[1](https://lifestreamblog.com/lifelogging/)</sup> que monitoram em tempo real desde qualidade de sono a indicadores bioquímicos do corpo humano, constrói-se campo fértil para produção de *insights* a partir dos dados coletados, sem mencionar todo o mercado que está se construindo em torno de *wearable techonology*, como apresenta recente artigo da [Forbes](https://www.forbes.com/sites/paullamkin/2018/10/23/smart-wearables-market-to-double-by-2022-27-billion-industry-forecast/#2ccc65682656) que destaca uma previsão para 2019 que serão vendidos 85 milhões de *smartwatches*.
+Em tempos onde há uma explosão de *gadgets*<sup>[1](https://lifestreamblog.com/lifelogging/)</sup> que monitoram em tempo real desde qualidade de sono a indicadores bioquímicos do corpo humano, constrói-se campo fértil para produção de *insights* a partir dos dados coletados. Além disso, há um mercado crescendo em torno de wearable techonology, como apresenta recente artigo da [Forbes](https://www.forbes.com/sites/paullamkin/2018/10/23/smart-wearables-market-to-double-by-2022-27-billion-industry-forecast/#2ccc65682656) que destaca uma previsão para 2019  de que serão vendidos 85 milhões de smartwatches.
 
 <center><img src="/images/memes/e_eu_com_isso.jpg" width="300" height="300" /></center>
 
-Nos últimos anos muito tem falado sobre a implementação de uma cultura [data-driven](https://www.forbes.com/sites/brentdykes/2018/08/22/build-a-data-driven-culture-one-meeting-at-a-time/#2715c222782f) nas organizações, o qual se cria um ecossistema profisisonal orientado por dados, além disso, com todos os recursos tecnológicos disponíveis atualmente, também é possível trazer para a sua vida pessoal benefícios atrelados a prática da coleta de dados pessoais. 
+Nos últimos anos muito tem falado sobre a implementação de uma cultura [data-driven](https://www.forbes.com/sites/brentdykes/2018/08/22/build-a-data-driven-culture-one-meeting-at-a-time/#2715c222782f) nas organizações, na qual se cria um ecossistema profisisonal orientado por dados, além disso, com todos os recursos tecnológicos disponíveis atualmente, também é possível trazer para a sua vida pessoal benefícios atrelados a prática da coleta de dados pessoais. 
 
 Um blog chamado `o eu analítico` não poderia começar sua trajetória de forma diferente, se não, apresentando os fatos e dados de uma vida de `lifelogging`. Diante das inúmeras possibilidades do que coletar sobre o nosso cotidiano, aqui vai uma sugestão:
 
 > Colete dados sobre algo que tenha importância para **você** e que esteja diretamente ligado a algum aspecto de sua vida que **você** avalie que necessita ser aprimorado. Do contrário, todo e qualquer benefício possível do processo de coleta **perderá** - rapidamente -  **o propósito**.
 
-Esse post tem por propósito compartilhar a minha experiência dos últimos 3 anos relacionada ao *time tracking*.
+Esse post tem o propósito compartilhar a minha experiência dos últimos 3 anos relacionada ao *time tracking*.
 
 ### 1. PRELÚDIO
 
-Em 2014 minha primeira filha nasceu e a vida mudou, e com isso passei por algo muito similar ao relatado por Josh Kaufman na excelente [TED Talk](https://www.youtube.com/watch?v=5MgBikgcWnY) `The first 20 hours`. Diante de uma nova vida de paternidade e mais responsabilidades, o meu tempo era mais escasso e como eu poderia me adaptar? Naquele ano começava a me chamar atenção uma nova área que estava começando a emergir chamada `data science`. Além disso, em 2015 eu e minha família nos mudamos - mais uma vez - dessa vez para Brasília, e novamente, a vida demorou a ser organizar. Dito isso, foram necessários 2 anos para eu começar a vislumbrar que a tecnologia poderia me auxiliar na minha gestão de tempo e assim conciliar tudo que era importante para mim.
+Em 2014 minha primeira filha nasceu e a vida mudou, e com isso passei por algo muito similar ao relatado por Josh Kaufman na excelente [TED Talk](https://www.youtube.com/watch?v=5MgBikgcWnY) `The first 20 hours`. Diante de uma nova vida de paternidade e mais responsabilidades, o meu tempo era escasso. Como eu poderia me adaptar? Naquele ano começava a me chamar atenção uma nova área chamada data science que começava a emergir. Além disso, em 2015 eu e minha família nos mudamos - mais uma vez - dessa vez para Brasília, e novamente, a vida demorou a ser organizar. Dito isso, foram necessários 2 anos para eu começar a vislumbrar que a tecnologia poderia me auxiliar na gestão de tempo e assim conciliar tudo que era importante para mim. 
 
 ### **2. O INÍCIO**
 
@@ -28,7 +28,9 @@ Estamos em 2016, eu estava há quase 1 ano morando em uma nova cidade, bem como 
 
 <center><img src="/images/memes/office.gif" width="300" height="300" /></center>
 
-Em agosto daquele ano a [Udacity](https://www.udacity.com/) abriu o seu escritório em São Paulo e começou a ofertar seus cursos precificados em Real, diante disso tomei a decisão de me inscrever no [Nanodegree Data Analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002) e essa decisão representa o meu  [tipping point](https://www.amazon.com.br/Tipping-Point-Little-Things-Difference/dp/0316346624) para uma vida `data-driven`. Após uma pesquisa sobre gerenciamento de tempo, descobri algumas opções de *softwares* para *time tracking*, foi quando decidi adotar o [toggl](https://toggl.com/), uma solução mutiplataforma para gerenciamento de tempo. Além da gestão, essa ferramenta me auxiliou na construção de um novo [hábito](https://www.elitedaily.com/life/motivation/need-stop-bad-habit-need-66-days/784244) que deveria ser incorporado a minha rotina para que pudesse ser bem sucedido no *nanodegree*. 
+Em agosto daquele ano a [Udacity](https://www.udacity.com/) abriu o seu escritório em São Paulo e começou a ofertar seus cursos precificados em Real, diante disso tomei a decisão de me inscrever no [Nanodegree Data Analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002) e essa decisão representa o meu  [tipping point](https://www.amazon.com.br/Tipping-Point-Little-Things-Difference/dp/0316346624) para uma vida `data-driven`. Após uma pesquisa sobre gerenciamento de tempo, descobri algumas opções de *softwares* para *time tracking*, foi quando decidi adotar o [toggl](https://toggl.com/), uma solução mutiplataforma para gerenciamento de tempo. 
+
+Além da gestão, essa ferramenta me auxiliou na construção de um novo  [hábito](https://www.elitedaily.com/life/motivation/need-stop-bad-habit-need-66-days/784244) que deveria ser incorporado a minha rotina para que eu pudesse ser bem sucedido no *nanodegree*. 
 
 Finalmente, podemos dar um salto temporal para o presente e analisar os meus dados coletados pelo **toggl** e as implicações disso para a minha vida `data-driven`.
 
@@ -44,7 +46,7 @@ Portanto, bastou carregar os dados no [pandas](https://pandas.pydata.org/) para 
 
 Para produção dos `calendar heatmap` fiz uso da biblioteca [calmap](https://pythonhosted.org/calmap/) que possui uma API bem simples e possui uma boa integração com os *dataframes* do `pandas`. 
 
-Pela escala de cores é possível identificar que o pico de registro é de no máximo umas **10 horas diárias** e que em 2016 foi um período de incorporação do uso do aplicativo na minha rotina e que fica evidente que nos anos de 2017 e 2018 o **hábito** do `time tracking` já estava incorporado em minha rotina. Além disso, essa visualização permite confirmar algo que sempre me propus: os finais de semana são períodos de descanso e `dedicados a família`.
+Pela escala de cores é possível identificar que o pico de registro é de no máximo umas **10 horas diárias** e que 2016 foi um período de incorporação do uso do aplicativo na minha rotina e fica evidente que nos anos de 2017 e 2018 o **hábito** do time tracking já estava incorporado a minha rotina. Além disso, essa visualização permite confirmar algo que sempre me propus: dedicar os finais de semana ao descanso e ao `cuidado com a família`. 
 
 <center><img src="/images/lifelogging_1/family.gif"></center>
 
@@ -62,7 +64,7 @@ A imagem revela que a maior parte do meu tempo registrado está ligada as minhas
 
 A construção de uma distribuição do total de horas trabalhadas ao longo de diferentes horas do dia revelou um histograma com dois picos: um no horário matutino entre as 09h:00min e 10h:59min da manhã e outro no vespertino entre as 14h:00min e 15h:59min. Além disso, os dados parecem se organizar em torno de algo próximo a uma [distribuição bimodal](https://pt.wikipedia.org/wiki/Distribui%C3%A7%C3%A3o_bimodal).
 
-Os dados me proporcionam a **clareza necessária** para saber em quais momentos ao longo do dia sou mais produtivo, portanto, aquelas reuniões clássicas que poderiam ser resolvidas em um email, eu tenho a condição de negociar para horários que não sou tão produtivo.
+Os dados me proporcionam a **clareza necessária** para saber em quais momentos ao longo do dia sou mais produtivo, portanto, aquelas reuniões clássicas que poderiam ser resolvidas em um email, agora eu consigo negociar para os horários em que não sou tão produtivo. 
 
 <center><div class="tenor-gif-embed" data-postid="3512096" data-share-method="host" data-width="80%" data-aspect-ratio="1.6666666666666667"><a href="https://tenor.com/view/typing-jim-carey-funny-workhard-gif-3512096">Working Hard GIF</a> from <a href="https://tenor.com/search/typing-gifs" >Typing GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script></center>
 
@@ -76,7 +78,7 @@ Desse modo, para organizar minha trajetória de aprendizado, comecei a registrar
 
 O gráfico de área empilhada mostra as três categorias de aprendizado prioritárias, além disso, eu selecionei o tempo investido em podcasts ligados a área de **ciência de dados** e de **tecnologia da informação**. No início da minha trajetória de `lifelogging` fica evidente o tempo investido em assuntos ligados a área de `data science` e quanto mais eu aprendia, mas era perceptível que era necessário investir tempo em outras frentes, principalmente as ligadas a programação, tais como **design pattern**, **testes**, **integração contínua**, **banco de dados**, **versionamento de código**, entre outras (a lista é longa!).
 
-O gráfico de pizza abaixo mostra que mais de **70%** do tempo que fiz uso desse recurso foi para assuntos ligados a **ciência de dados** e **tecnologia**. Os dados mostram que falta diversidade de conteúdo, certo? Mas é proposital devido ao [ambiente de imersão](https://eastasiastudent.net/study/immersion-environment/) que criei para acelerar meu aprendizado numa nova área do conhecimento.
+O gráfico de pizza abaixo mostra que mais de **70%** do tempo em que fiz uso desse recurso foi para assuntos ligados a **ciência de dados e tecnologia**. Os dados mostram que falta diversidade de conteúdo, certo? Mas é proposital devido ao [ambiente de imersão](https://eastasiastudent.net/study/immersion-environment/) que criei para acelerar meu aprendizado numa nova área do conhecimento.
 
 <center><img src="/images/lifelogging_1/OK_podcast_piechart_category.png" width="80%" height="80%"></center>
 

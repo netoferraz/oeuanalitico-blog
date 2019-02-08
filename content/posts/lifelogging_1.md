@@ -20,7 +20,11 @@ Esse post tem o propósito compartilhar a minha experiência dos últimos 3 anos
 
 ### 1. prelúdio
 
-Em 2014 minha primeira filha nasceu e a vida mudou, e com isso passei por algo muito similar ao relatado por Josh Kaufman na excelente [TED Talk](https://www.youtube.com/watch?v=5MgBikgcWnY) `The first 20 hours`. Diante de uma nova vida de paternidade e mais responsabilidades, o meu tempo era escasso. Como eu poderia me adaptar? Naquele ano começava a me chamar atenção uma nova área chamada data science que começava a emergir. Além disso, em 2015 eu e minha família nos mudamos - mais uma vez - dessa vez para Brasília, e novamente, a vida demorou a ser organizar. Dito isso, foram necessários 2 anos para eu começar a vislumbrar que a tecnologia poderia me auxiliar na gestão de tempo e assim conciliar tudo que era importante para mim. 
+Em 2014 minha primeira filha nasceu e a vida mudou, e com isso passei por algo muito similar ao relatado por Josh Kaufman na excelente [TED Talk](https://www.youtube.com/watch?v=5MgBikgcWnY) `The first 20 hours`. Diante de uma nova vida de paternidade e mais responsabilidades, o meu tempo era escasso. Como eu poderia me adaptar? 
+
+<center><div class="tenor-gif-embed" data-postid="5036980" data-share-method="host" data-width="80%" data-aspect-ratio="1.5151515151515151"><a href="https://tenor.com/view/ponder-pondering-hmm-tapping-wondering-gif-5036980">Ponder Pondering GIF</a> from <a href="https://tenor.com/search/ponder-gifs">Ponder GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script></center>
+
+Naquele ano começava a me chamar atenção uma nova área chamada data science que começava a emergir. Além disso, em 2015 eu e minha família nos mudamos - mais uma vez - dessa vez para Brasília, e novamente, a vida demorou a ser organizar. Dito isso, foram necessários 2 anos para eu começar a vislumbrar que a tecnologia poderia me auxiliar na gestão de tempo e assim conciliar tudo que era importante para mim. 
 
 ### 2. o início
 

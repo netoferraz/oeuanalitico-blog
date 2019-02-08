@@ -88,7 +88,7 @@ Por último, e não menos importante, para qualquer pessoa que pretenda ingressa
 
 > Você precisa criar o ambiente necessário em sua vida para a concretização dos seus sonhos, portanto, os *podcasts* podem ser mais uma maneira de incorporar o contato com um idioma estrangeiro no seu dia a dia.
 
-<center><img src="/images/lifelogging_1/OK_podcast_fig_share..png" width="80%" height="80%"></center>
+<center><img src="/images/lifelogging_1/OK_podcast_fig_share..png" width="100%" height="100%"></center>
 
 O gráfico de barras empilhadas mostra que, a exceção de Julho de 2017, os podcasts em inglês sempre estão presentes de forma significativa na minha rotina, colaborando no mínimo, em duas frentes: o assunto técnico e o idioma estrangeiro.
 

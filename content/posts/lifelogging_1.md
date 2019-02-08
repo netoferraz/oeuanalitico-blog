@@ -6,7 +6,7 @@ draft: false
 
 Você conhece o termo `lifelogging`? Também conhecido por [Quantified self](https://en.wikipedia.org/wiki/Quantified_self), foi um movimento criado no início de 2007 por Gary Wolf e Kevin Kelly, editores da revista [Wired](https://www.wired.com/magazine/), o qual promove a incorporação de tecnologia para aquisição de dados no cotidiano das pessoas.
 
-Em tempos onde há uma explosão de *gadgets*<sup>[1](https://lifestreamblog.com/lifelogging/)</sup> que monitoram em tempo real desde qualidade de sono a indicadores bioquímicos do corpo humano, constrói-se campo fértil para produção de *insights* a partir dos dados coletados.
+Em tempos onde há uma explosão de [gadgets](https://lifestreamblog.com/lifelogging/) que monitoram em tempo real desde qualidade de sono a indicadores bioquímicos do corpo humano, constrói-se campo fértil para produção de *insights* a partir dos dados coletados.
 
 <center><img src="/images/memes/e_eu_com_isso.jpg" width="300" height="300" /></center>
 

@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/lifelogging_1/</loc>
+    <loc>https://oeuanalitico.netlify.com/posts/lifelogging_1/</loc>
     <lastmod>2019-02-07T12:40:56-02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://oeuanalitico.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://oeuanalitico.netlify.com/posts/</loc>
     <lastmod>2019-02-07T12:40:56-02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://oeuanalitico.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://oeuanalitico.netlify.com/</loc>
     <lastmod>2019-02-07T12:40:56-02:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>o eu analítico</title>
-    <link>http://example.org/</link>
+    <link>https://oeuanalitico.netlify.com/</link>
     <description>Recent content on o eu analítico</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Feb 2019 12:40:56 -0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oeuanalitico.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>lifelogging, um estilo de vida.</title>
-      <link>http://example.org/posts/lifelogging_1/</link>
+      <link>https://oeuanalitico.netlify.com/posts/lifelogging_1/</link>
       <pubDate>Thu, 07 Feb 2019 12:40:56 -0200</pubDate>
       
-      <guid>http://example.org/posts/lifelogging_1/</guid>
+      <guid>https://oeuanalitico.netlify.com/posts/lifelogging_1/</guid>
       <description>Você conhece o termo lifelogging? Também conhecido por Quantified self, esse consiste em um movimento criado no início de 2007 por Gary Wolf e Kevin Kelly, editores da revista Wired, o qual promove a incorporação de tecnologia para aquisição de dados no cotidiano das pessoas.
 Em tempos onde há uma explosão de gadgets1 que monitoram em tempo real desde qualidade de sono a indicadores bioquímicos do corpo humano, constrói-se campo fértil para produção de insights a partir dos dados coletados, sem mencionar todo o mercado que está se construindo em torno de wearable techonology, como apresenta um recente artigo da revista Forbes que destaca uma previsão para 2019 que sejam vendidos 85 milhões de smartwatches.</description>
     </item>

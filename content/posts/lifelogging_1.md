@@ -26,13 +26,13 @@ Em 2014 minha primeira filha nasceu e tudo mudou, e com isso passei por algo mui
 
 Estamos em 2016, eu estava há quase 1 ano morando em uma nova cidade, bem como em um novo emprego. Além disso, o interesse por `data science` só aumentava, mas eu ainda sentia que os estudos estavam demorando a engrenar, diante de uma rotina de trabalho integral, além da atenção necessária a família, eu julgava que me faltava tempo.
 
-<center><img src="/images/memes/office.gif" width="200" height="200" /></center>
+<center><img src="/images/memes/office.gif" width="300" height="300" /></center>
 
 Em agosto daquele ano a [Udacity](https://www.udacity.com/) abriu o seu escritório em São Paulo e começou a ofertar seus cursos precificados em Real, diante disso tomei a decisão de me inscrever no [Nanodegree Data Analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002) e essa decisão representa o meu  [tipping point](https://www.amazon.com.br/Tipping-Point-Little-Things-Difference/dp/0316346624) para uma vida `data-driven`. Após uma pesquisa sobre gerenciamento de tempo, descobri algumas opções de *softwares* para *time tracking*, foi quando decidi adotar o [toggl](https://toggl.com/), uma solução mutiplataforma para gerenciamento de tempo. Além da gestão, essa ferramenta me auxiliou na construção de um novo [hábito](https://www.elitedaily.com/life/motivation/need-stop-bad-habit-need-66-days/784244) que deveria ser incorporado a minha rotina para que pudesse ser bem sucedido no *nanodegree*. 
 
 Finalmente, podemos dar um salto temporal para o presente e analisar os meus dados coletados pelo **toggl** e as implicações disso para a minha vida `data-driven`.
 
-<center><a href="https://imgflip.com/i/2szt1f"><img src="https://i.imgflip.com/2szt1f.jpg" title="made at imgflip.com"  width="50%" height="50%"/></a></center>
+<center><a href="https://imgflip.com/i/2szt1f"><img src="https://i.imgflip.com/2szt1f.jpg" title="made at imgflip.com"  width="80%" height="80%"/></a></center>
 
 ### 3. lifelogging
 
@@ -64,7 +64,7 @@ A construção de uma distribuição do total de horas trabalhadas ao longo de d
 
 Os dados me proporcionam a **clareza necessária** para saber em quais momentos ao longo do dia sou mais produtivo, portanto, aquelas reuniões clássicas que poderiam ser resolvidas em um email, eu tenho a condição de negociar para horários que não sou tão produtivo.
 
-<center><div class="tenor-gif-embed" data-postid="3512096" data-share-method="host" data-width="60%" data-aspect-ratio="1.6666666666666667"><a href="https://tenor.com/view/typing-jim-carey-funny-workhard-gif-3512096">Working Hard GIF</a> from <a href="https://tenor.com/search/typing-gifs" >Typing GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script></center>
+<center><div class="tenor-gif-embed" data-postid="3512096" data-share-method="host" data-width="80%" data-aspect-ratio="1.6666666666666667"><a href="https://tenor.com/view/typing-jim-carey-funny-workhard-gif-3512096">Working Hard GIF</a> from <a href="https://tenor.com/search/typing-gifs" >Typing GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script></center>
 
 Abordado alguns padrões relacionados a minha rotina de trabalho, podemos explorar alguns aspectos da minha trajetória de incorporação de conhecimentos ligados a área de `data science`. Essa é uma área que tem despertado muito interesse nos últimos anos, e ao meu ver, a maior característica dela é a sua intrínseca interdisciplinaridade, e nada mais icônico para demonstrar isso que o [diagrama de venn](https://www.oreilly.com/library/view/principles-of-data/9781785887918/ch01s02.html) que mostra a intersecção entre conhecimentos das áreas de **matemática/estatística** & **computação** & **área de negócio**. Compartilho com vocês, uma citação muito famosa que considero adequada para representar esse profissional:
 
@@ -78,7 +78,7 @@ O gráfico de área empilhada mostra as três categorias de aprendizado priorit�
 
 O gráfico de pizza abaixo mostra que mais de **70%** do tempo que fiz uso desse recurso foi para assuntos ligados a **ciência de dados** e **tecnologia**, os dados mostram que falta diversidade de conteúdo, certo? Mas é proposital devido ao [ambiente de imersão](https://eastasiastudent.net/study/immersion-environment/) que criei para acelerar meu aprendizado numa nova área do conhecimento.
 
-<center><img src="/images/lifelogging_1/OK_podcast_piechart_category.png" width="60%" height="60%"></center>
+<center><img src="/images/lifelogging_1/OK_podcast_piechart_category.png" width="80%" height="80%"></center>
 
 Gostaria de destacar a importância que credito aos podcasts nessa experiência de aprendizado profissional e pessoal, caso você ainda não conheça, não perca tempo e incorpore na sua rotina. Dito isso, apresento a listagem dos programas mais populares na minha *playlist* divididos por assunto.
 

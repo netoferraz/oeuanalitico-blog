@@ -18,12 +18,12 @@ Um blog chamado `o eu analítico` não poderia começar sua trajetória de forma
 
 Esse post tem o propósito compartilhar a minha experiência dos últimos 3 anos relacionada ao *time tracking*.
 
-### 1. PRELÚDIO
+### 1. prelúdio
 
 Em 2014 minha primeira filha nasceu e a vida mudou, e com isso passei por algo muito similar ao relatado por Josh Kaufman na excelente [TED Talk](https://www.youtube.com/watch?v=5MgBikgcWnY) `The first 20 hours`. Diante de uma nova vida de paternidade e mais responsabilidades, o meu tempo era escasso. Como eu poderia me adaptar? Naquele ano começava a me chamar atenção uma nova área chamada data science que começava a emergir. Além disso, em 2015 eu e minha família nos mudamos - mais uma vez - dessa vez para Brasília, e novamente, a vida demorou a ser organizar. Dito isso, foram necessários 2 anos para eu começar a vislumbrar que a tecnologia poderia me auxiliar na gestão de tempo e assim conciliar tudo que era importante para mim. 
 
 
-### **2. O INÍCIO**
+### 2. o início
 
 Estamos em 2016, eu estava há quase 1 ano morando em uma nova cidade, bem como em um novo emprego. Além disso, o interesse por `data science` só aumentava, mas eu ainda sentia que os estudos estavam demorando a engrenar, diante de uma rotina de trabalho integral, além da atenção necessária a família, eu julgava que me faltava tempo.
 

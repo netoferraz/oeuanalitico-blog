@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>o eu analítico</title>
-    <link>https://oeuanalitico.netlify.com/</link>
-    <description>Recent content on o eu analítico</description>
+    <title>Posts on o eu analítico</title>
+    <link>https://oeuanalitico.netlify.com/posts/</link>
+    <description>Recent content in Posts on o eu analítico</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Feb 2019 12:40:56 -0200</lastBuildDate>
     
-	<atom:link href="https://oeuanalitico.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oeuanalitico.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

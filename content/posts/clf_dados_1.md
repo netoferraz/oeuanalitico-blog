@@ -2,8 +2,7 @@
 title: "dados: como classificá-los?"
 date: 2019-07-29T15:07:26-03:00
 draft: false
-featured_image: "clf_dados_1/dados_clf_01.jpg"
-
+featured_image: "/clf_dados_1/dados_clf_01.jpg"
 ---
 
 A grande maioria dos [**mapas temáticos**](https://en.wikipedia.org/wiki/Thematic_map) faz uso de algum método para [**classificação de dados**](http://www.gitta.info/Statistics/en/html/StandClass_learningObject2.html). O objetivo desse processo é organizar os dados em intervalos de dados ou em classes. A classificação se torna necessária para evitar um nível de granularidade muito elevado tornando a informação incompreensiva. Por outro lado, como apresentado em *[**How to lie with maps**](https://www.ft.com/content/65b5df0e-49ff-11e8-8ee8-cae73aab7ccb)* um agrupamento incorreto pode distorcer a informação. Atualmente, existem programas ([QGIS](https://www.qgis.org/pt_BR/site/), [ArcGIS](https://www.arcgis.com/index.html), [GeoPandas](http://geopandas.org/), etc.) que automatizam a produção de mapas com várias configurações *default* para "facilitar" a vida do usuário. Todavia, tais facilidades podem esconder armadilhas para usuários menos experientes.

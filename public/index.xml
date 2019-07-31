@@ -6,10 +6,19 @@
     <description>Recent content on o eu analítico</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Feb 2019 12:40:56 -0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 15:07:26 -0300</lastBuildDate>
     
 	<atom:link href="https://oeuanalitico.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dados: como classificá-los?</title>
+      <link>https://oeuanalitico.netlify.com/posts/clf_dados_1/</link>
+      <pubDate>Mon, 29 Jul 2019 15:07:26 -0300</pubDate>
+      
+      <guid>https://oeuanalitico.netlify.com/posts/clf_dados_1/</guid>
+      <description>A grande maioria dos mapas temáticos faz uso de algum método para classificação de dados. O objetivo desse processo é organizar os dados em intervalos de dados ou em classes. A classificação se torna necessária para evitar um nível de granularidade muito elevado tornando a informação incompreensiva. Por outro lado, como apresentado em *How to lie with maps* um agrupamento incorreto pode distorcer a informação. Atualmente, existem programas (QGIS, ArcGIS, GeoPandas, etc.</description>
+    </item>
     
     <item>
       <title>lifelogging, um estilo de vida.</title>
@@ -17,8 +26,8 @@
       <pubDate>Thu, 07 Feb 2019 12:40:56 -0200</pubDate>
       
       <guid>https://oeuanalitico.netlify.com/posts/lifelogging_1/</guid>
-      <description>Você conhece o termo lifelogging? Também conhecido por Quantified self, foi um movimento criado no início de 2007 por Gary Wolf e Kevin Kelly, editores da revista Wired, o qual promove a incorporação de tecnologia para aquisição de dados no cotidiano das pessoas.
-Em tempos onde há uma explosão de gadgets que monitoram em tempo real desde qualidade de sono a indicadores bioquímicos do corpo humano, constrói-se campo fértil para produção de insights a partir dos dados coletados.</description>
+      <description>Você conhece o termo lifelogging? Também conhecido por Quantified self, esse consiste em um movimento criado no início de 2007 por Gary Wolf e Kevin Kelly, editores da revista Wired, o qual promove a incorporação de tecnologia para aquisição de dados no cotidiano das pessoas.
+Em tempos onde há uma explosão de gadgets1 que monitoram em tempo real desde qualidade de sono a indicadores bioquímicos do corpo humano, constrói-se campo fértil para produção de insights a partir dos dados coletados, sem mencionar todo o mercado que está se construindo em torno de wearable techonology, como apresenta um recente artigo da revista Forbes que destaca uma previsão para 2019 que sejam vendidos 85 milhões de smartwatches.</description>
     </item>
     
   </channel>

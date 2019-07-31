@@ -6,6 +6,7 @@ images:
 - /images/clf_dados_1/dados_clf_01.png
 ---
 
+
 A grande maioria dos [**mapas temáticos**](https://en.wikipedia.org/wiki/Thematic_map) faz uso de algum método para [**classificação de dados**](http://www.gitta.info/Statistics/en/html/StandClass_learningObject2.html). O objetivo desse processo é organizar os dados em intervalos de dados ou em classes. A classificação se torna necessária para evitar um nível de granularidade muito elevado tornando a informação incompreensiva. Por outro lado, como apresentado em *[**How to lie with maps**](https://www.ft.com/content/65b5df0e-49ff-11e8-8ee8-cae73aab7ccb)* um agrupamento incorreto pode distorcer a informação. Atualmente, existem programas ([QGIS](https://www.qgis.org/pt_BR/site/), [ArcGIS](https://www.arcgis.com/index.html), [GeoPandas](http://geopandas.org/), etc.) que automatizam a produção de mapas com várias configurações *default* para "facilitar" a vida do usuário. Todavia, tais facilidades podem esconder armadilhas para usuários menos experientes.
 
 >Dados podem ser facilmente <span style="color:#AC4142"><b>distorcidos</b></span> quando analistas sucumbem ao senso de seguir as sugestões padrão das soluções de software. Por exemplo, a maior parte das vezes que um software gera um [mapa coroplético](https://pt.wikipedia.org/wiki/Mapa_coropl%C3%A9tico) a classificação utilizada nos dados é realizada por uma segmentação em 5 categorias baseada em intervalos iguais ou por quantis. (Livre Tradução) <i>Lying with Maps</i>, Mark Monmonier, Statistical Science, 2005, Vol. 20, No. 3, 215–222

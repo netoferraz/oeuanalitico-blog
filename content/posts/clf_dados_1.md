@@ -2,7 +2,7 @@
 title: "dados: como classificá-los?"
 date: 2019-07-29T15:07:26-03:00
 draft: false
-featured_image: "images/dados_clf_01.jpg"
+featured_image: "clf_dados_1/dados_clf_01.jpg"
 
 ---
 

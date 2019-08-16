@@ -6,10 +6,21 @@
     <description>Recent content on o eu analítico</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2019 15:07:26 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 12:17:15 -0300</lastBuildDate>
     
 	<atom:link href="https://oeuanalitico.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>API para consulta do acervo do LexML</title>
+      <link>https://oeuanalitico.netlify.com/posts/py_lexml_acervo/</link>
+      <pubDate>Fri, 16 Aug 2019 12:17:15 -0300</pubDate>
+      
+      <guid>https://oeuanalitico.netlify.com/posts/py_lexml_acervo/</guid>
+      <description>Você conhece o projeto LexML? O projeto visa unificar a informação legislativa e jurídica em um único portal. Eu escrevi um código que facilita a consulta à API do catálogo do LexML. Tá esperando o que para explorar esses dados?
+
+Além disso, fazendo uso do py-lexml-acervo disponibilizei um dataset contendo os metadados dos documentos publicados entre os anos de 1556 a 2019. O dataset possui aproximadamente 2GB compactado, e descompactado em torno de 10GB.</description>
+    </item>
     
     <item>
       <title>dados: como classificá-los?</title>
@@ -17,7 +28,7 @@
       <pubDate>Mon, 29 Jul 2019 15:07:26 -0300</pubDate>
       
       <guid>https://oeuanalitico.netlify.com/posts/clf_dados_1/</guid>
-      <description>A grande maioria dos mapas temáticos faz uso de algum método para classificação de dados. O objetivo desse processo é organizar os dados em intervalos de dados ou em classes. A classificação se torna necessária para evitar um nível de granularidade muito elevado tornando a informação incompreensiva. Por outro lado, como apresentado em *How to lie with maps* um agrupamento incorreto pode distorcer a informação. Atualmente, existem programas (QGIS, ArcGIS, GeoPandas, etc.</description>
+      <description>A grande maioria dos mapas temáticos faz uso de algum método para classificação de dados. O objetivo desse processo é organizar os dados em intervalos de dados ou em classes. A classificação se torna necessária para evitar um nível de granularidade muito elevado tornando a informação incompreensiva. Por outro lado, como apresentado em How to lie with maps um agrupamento incorreto pode distorcer a informação. Atualmente, existem programas (QGIS, ArcGIS, GeoPandas, etc.</description>
     </item>
     
     <item>

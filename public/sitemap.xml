@@ -3,20 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://oeuanalitico.netlify.com/posts/py_lexml_acervo/</loc>
+    <lastmod>2019-08-16T12:17:15-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://oeuanalitico.netlify.com/posts/</loc>
-    <lastmod>2019-07-29T15:07:26-03:00</lastmod>
+    <lastmod>2019-08-16T12:17:15-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oeuanalitico.netlify.com/</loc>
+    <lastmod>2019-08-16T12:17:15-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://oeuanalitico.netlify.com/posts/clf_dados_1/</loc>
     <lastmod>2019-07-29T15:07:26-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://oeuanalitico.netlify.com/</loc>
-    <lastmod>2019-07-29T15:07:26-03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

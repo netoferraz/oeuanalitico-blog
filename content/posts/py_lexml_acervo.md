@@ -1,5 +1,5 @@
 ---
-title: "API para consulta do acervo do LexML"
+title: "api para consulta do acervo do LexML"
 date: 2019-08-16T12:17:15-03:00
 draft: false
 ---
